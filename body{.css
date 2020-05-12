@@ -1,0 +1,41 @@
+body{
+    background:#CDC9C9
+  }
+  
+  .text{
+    font-text:italic
+  }
+  .menu{
+       background-color:	
+    #808080;
+    }
+     
+    
+    .menu li{
+      list-style:none;
+    }
+    
+    a{
+      color:#000000;
+      text-decoration:none;
+    }
+    a:hover{ text-decoration:underline;
+      
+    }
+    
+    .site-title {
+      text-align:center;
+      color:#4169E5
+    }
+    
+    .sub-title{
+       text-align:center;
+      color:#41691;
+    #
+    
+    }
+    
+    .final{
+      text-align:center;
+      color: red;
+    }
